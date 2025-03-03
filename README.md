@@ -1,1 +1,3 @@
-# Structure
+<RainbowKitProvider initialChain={soneiumMinato}>
+  {children}
+</RainbowKitProvider># Structure
